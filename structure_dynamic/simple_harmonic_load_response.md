@@ -1,3 +1,4 @@
+```
 #结构动力学第三次作业
 ##简谐荷载下结构动力响应
 
@@ -157,3 +158,4 @@ G=E.*F;
 H=C*sin(theta*t_b)+D*cos(theta*t_b);
 y_t_b=G+H;%displacement
 end
+```
