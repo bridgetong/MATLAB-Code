@@ -1,3 +1,4 @@
+```Matlab
 ##%% *计算方法作业/ 线性方程组求解 Matlab 代码*
 % 
 % %% 
@@ -234,3 +235,4 @@ function X=uptrbk(A,B)
 
   X=backsub(Aug(1:N,1:N),Aug(1:N,N+1));
 end
+```
