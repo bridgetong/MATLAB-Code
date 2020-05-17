@@ -1,3 +1,4 @@
+```matlab
 &计算方法第二次作业—舍入误差与有效数字  程序示例| 
 %%计算通用程序
 
@@ -15,3 +16,4 @@ end
 fprintf('精确值为：%17.15f\n',accurate_value);%精确值保留小数点后15位
 fprintf('从大到小的顺序累加结果为SN=%f\n',Sn_StL);
 fprintf('从小到大的顺序累加结果为SN=%f\n',Sn_LtS);
+```
